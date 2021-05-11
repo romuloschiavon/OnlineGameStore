@@ -18,3 +18,18 @@ The favorite list (Lista de Desejos) has issues and it should be changed as well
 
 The ideia of the logic model is to work around the errors of the conceptual model, so that the application can be runned even with the errors that should be fixed later.
 
+## How to run
+
+To run the application you should alter the params in ```db.py``` to your postgresql database. Such as username, password, host etc...
+
+Install **[PsycoPg2](https://pypi.org/project/psycopg2/)**
+Install **[MatPlotLib](https://matplotlib.org/stable/users/installing.html)**
+Install **[NumPy](https://numpy.org/install/)**
+
+After altered run ```main.py``` and it should create a GUI (in portuguese) with all the interactions thart can be runned withing the aplication.
+
+In the console you should see a lot of prints, they're for the main purpose that the teacher wanted us to show him in console the creation, inserts, updates and deletes of the application.
+
+## Graphs
+
+The graphs are automatically generated using matplotlib. So check them running the application!
