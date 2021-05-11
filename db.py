@@ -1,10 +1,10 @@
 import psycopg2
 
-usuario = "postgres"
-senha = "admin"
-ip = "localhost"
-porta = "5432"
-db_name =  "Apresentacao"
+usuario = "INSERT HERE"
+senha = "INSERT HERE"
+ip = "INSERT HERE"
+porta = "INSERT HERE"
+db_name =  "INSERT HERE"
 
 ###################################################################
 #           ALTERAR SOMENTE AS VARIAVEIS ACIMA !!!!              #
