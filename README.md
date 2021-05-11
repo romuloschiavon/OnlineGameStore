@@ -33,3 +33,7 @@ In the console you should see a lot of prints, they're for the main purpose that
 ## Graphs
 
 The graphs are automatically generated using matplotlib. So check them running the application!
+
+## For portuguese readers
+
+If you know portuguese and want to see the full document with all the details and explanations that we (me and [Matheus](https://github.com/matheus1103)) gave to our teacher, check the document [Relatorio](https://github.com/romuloschiavon/LojaOnlineDeJogos/blob/main/Relatorio.pdf)
