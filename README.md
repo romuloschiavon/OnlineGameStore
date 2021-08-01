@@ -11,14 +11,14 @@ The main idea of the project was to design the conceptual model and the logic mo
 
 <img src="https://i.imgur.com/UvwrXWR.jpg"></img>
 
-The main ideia of the conceptual model was to revolve around the game (jogo). The issue to be altered in the application is generating orders with dates. As of right now it has a lot of problemns exceptionally when the order has a lot of itens, packages (expansions) and games.
+The main idea of the conceptual model was to revolve around the game (jogo). The issue to be altered in the application is generating orders with dates. As of right now it has a lot of problemns exceptionally when the order has a lot of itens, packages (expansions) and games.
 The favorite list (Lista de Desejos) has issues and it should be changed as well.
 
 ## Logic Model
 
 <img src="https://i.imgur.com/Pj3pc4x.jpg"></img>
 
-The ideia of the logic model is to work around the errors of the conceptual model, so that the application can be runned even with the errors that should be fixed later.
+The idea of the logic model is to work around the errors of the conceptual model, so that the application can be runned even with the errors that should be fixed later.
 
 ## How to run
 
